@@ -1,0 +1,10 @@
+body {
+  background-image: url(Background.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  position: sticky;
+}
